@@ -13,10 +13,10 @@
   ],
   "license": "MIT",
   "dependencies": {
-    "async": "0.1.22"
+    "async": "2.1.2"
   },
   "devDependencies": {
-    "mocha": "1.7.3",
-    "should": "1.2.1"
+    "mocha": "3.1.2",
+    "should": "11.1.1"
   }
 }
